@@ -14,10 +14,10 @@ class Contact extends Component{
                                 style= {{height: '400px', width: '400px', margin: 'auto'}}
                             />            
                     </Cell>
-                    <Cell col={6}>
+                    <Cell className="contact-info" col={6}>
                         <h2 style= {{color: 'white', fontFamily: 'Poppins'}}>Contact Info</h2>
-                            <h3 style= {{color: 'white', fontFamily: 'Poppins'}}>Email....maxcliff3@gmail.com</h3>
-                            <h3 style= {{color: 'white', fontFamily: 'Poppins'}}>Cell....703-593-9719</h3>
+                            <h3 style= {{color: 'white', fontFamily: 'Poppins'}}>Email: maxcliff3@gmail.com</h3>
+                            <h3 style= {{color: 'white', fontFamily: 'Poppins'}}>Cell: 703-593-9719</h3>
                             
                             
                         
