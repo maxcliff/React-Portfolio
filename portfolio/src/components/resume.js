@@ -16,7 +16,10 @@ class Resume extends Component{
                     </CardText>
                     <CardActions border>
                         <Button colored>
-                            See here              
+                        See Here
+                        <a href= "https://www.linkedin.com/in/maxcliff/" rel= "noopener noreferrer" target= "_blank">
+                                <i className="fa fa-linkedin-square" aria-hidden= "true"/>
+                        </a>        
                         </Button>
                     </CardActions>
                 </Card>

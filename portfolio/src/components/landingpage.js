@@ -19,11 +19,11 @@ class Landing extends Component{
                         <p>HTML/CSS | Bootstrap | Javascript | NodeJS | React | MongoDB</p>
                         
                         <div className= "social-links">
-                            {/*Linkedin*/}
+                            {/*Github*/}
                                 <a href= "https://www.github.com/maxcliff" rel= "noopener noreferrer" target= "_blank">
                                 <i className="fa fa-github-square" aria-hidden= "true"/>
                                 </a>
-                            {/*Github*/}
+                            {/*Linkedin*/}
                                 <a href= "https://www.linkedin.com/in/maxcliff/" rel= "noopener noreferrer" target= "_blank">
                                 <i className="fa fa-linkedin-square" aria-hidden= "true"/>
                                 </a>
