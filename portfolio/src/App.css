@@ -125,3 +125,27 @@ height: 100%;
   font-size: 5em;
   padding: 8px;
 }
+
+/* Resume Page */
+
+.resume-right-col{
+  background: #DFE2E0;  /* fallback for old browsers */
+  color: black;
+  padding: 2em;
+}
+
+/*About Me Page*/
+
+.dog-img{
+  height: 300px;
+  padding-top: 2em;
+  width: 300px;
+
+}
+
+.boat-img{
+  height: 300px;
+  padding-top: 2em;
+  
+}
+

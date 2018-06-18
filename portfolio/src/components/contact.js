@@ -24,14 +24,14 @@ class Contact extends Component{
                             <List>
                                 <ListItem>
                                     <ListItemContent>
-                                        <i class="fa fa-phone" aria-hidden="true"></i>
+                                        <i className="fa fa-phone" aria-hidden="true"></i>
                                         (703)593-9719
                                     </ListItemContent>
                                 </ListItem>
 
                                 <ListItem>
                                     <ListItemContent>
-                                        <i class="fa fa-envelope" aria-hidden="true"></i>
+                                        <i className="fa fa-envelope" aria-hidden="true"></i>
                                         maxcliff3@gmail.com
                                     </ListItemContent>
                                 </ListItem>
