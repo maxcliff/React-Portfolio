@@ -39,7 +39,7 @@ class Contact extends Component{
                                 <ListItem>
                                     <ListItemContent>
                                         <i className="fa fa-linkedin-square" aria-hidden="true"/>
-                                        <a href= 'https://www.linkedin.com/in/maxcliff' target= "_blank">www.linkedin.com/in/maxcliff</a>
+                                        <a href= 'https://www.linkedin.com/in/maxcliff' target="_blank" rel="noopener noreferrer">www.linkedin.com/in/maxcliff</a>
                                     </ListItemContent>
                                 </ListItem>
                             </List>  
